@@ -1,2 +1,2 @@
 # Kmean
-Kmeam templat
+Kmeam
